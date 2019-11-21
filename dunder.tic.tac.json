@@ -1,9 +1,9 @@
 {
   "app": {
     "title": "Dunder Tic Tac",
-    "imagePath": "https://raw.githubusercontent.com/RomanHall/apps/master/tic-tac-toe-male-vs-female.jpg",
-    "linkPath": "",
-    "linkAction": "#start",
+    "imagePath": "https://raw.githubusercontent.com/RomanHall/apps/master/Dunder.jpg",
+    "linkPath": "https://media.dunderaffiliates.com/redirect.aspx?pid=520555&bid=1477&sub_id=a_2182",
+    "linkAction": "#web",
     "afid": "XR3LhEQGwCSA4Vn5RYtFLY"
   }
 }
